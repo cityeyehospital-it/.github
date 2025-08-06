@@ -44,6 +44,38 @@ Our department works with a variety of technologies:
 
 ---
 
+## 📌 Highlighted Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [`standards-and-guidelines`](https://github.com/cityeyehospital-it/standards-and-guidelines) | Coding, deployment, and security standards for internal dev |
+| [`infra-docs`](https://github.com/cityeyehospital-it/infra-docs) *(Coming soon)* | Infrastructure diagrams, networking configs, cloud docs |
+| [`open-source-contributions`](https://github.com/cityeyehospital-it/open-source-contributions) *(Coming soon)* | Public tools and reusable scripts |
+| [`onboarding`](https://github.com/cityeyehospital-it/onboarding) *(Coming soon)* | Developer and IT staff onboarding documentation |
+
+---
+
+## 🧭 GitHub Repository Index
+
+- 📄 [Documentation & Standards](https://github.com/cityeyehospital-it/standards-and-guidelines)
+- 💻 [Code Projects & APIs](https://github.com/cityeyehospital-it?tab=repositories)
+- 🛡️ [Security & Compliance](https://github.com/cityeyehospital-it/.github)
+- 🧰 [Tools & Scripts](https://github.com/cityeyehospital-it/open-source-contributions)
+
+---
+
+## 🔐 Security & Privacy
+
+We take security and patient data privacy seriously. All code and systems comply with industry best practices for healthcare IT and are regularly reviewed.
+
+- 2FA enforced for all contributors
+- Secure coding practices & audit trails
+- Encrypted data handling and access control
+- GitHub Actions used with least-privilege principle
+- Internal tooling follows compliance with Kenya’s Data Protection Act
+
+---
+
 ## 🤝 Contributing
 
 If you're a team member or intern:
@@ -56,13 +88,13 @@ If you're an external contributor:
 
 ---
 
-## 🔐 Security & Privacy
+## 🚀 DevOps & Automation
 
-We take security and patient data privacy seriously. All code and systems comply with industry best practices for healthcare IT and are regularly reviewed.
-
-- 2FA enforced for all contributors
-- Secure coding practices & audit trails
-- Encrypted data handling and access control
+We use GitHub Actions and CI/CD tools to:
+- Test and deploy internal APIs
+- Automate backup jobs
+- Run scheduled monitoring scripts
+- Maintain development consistency across environments
 
 ---
 
