@@ -69,7 +69,7 @@ We take security and patient data privacy seriously. All code and systems comply
 ## 🌐 Contact & Links
 
 - 🌍 Website: [www.cityeyehospital.or.ke](https://www.cityeyehospital.or.ke)
-- 📧 Email: [it@cityeyehospital.or.ke](mailto:it@cityeyehospital.or.ke)
+- 📧 Email: [itsupport@cityeyehospital.or.ke](mailto:itsupport@cityeyehospital.or.ke)
 - 💼 LinkedIn: [City Eye Hospital](https://linkedin.com/company/72060335)
 
 ---
